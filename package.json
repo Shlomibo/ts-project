@@ -10,11 +10,13 @@
   "scripts": {
     "test": "",
     "build": "tsc -p .",
-    "develop": "tsc -w -p ."
+    "develop": "tsc -w -p .",
+    "lint": "tslint ."
   },
   "author": "Shlomi Borovitz",
   "license": "ISC",
   "devDependencies": {
+    "tslint": "^4.0.2",
     "typescript": "^2.1.4"
   }
 }
