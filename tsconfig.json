@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "sourceMap": true,
+        "alwaysStrict": true,
+        "suppressImplicitAnyIndexErrors": true,
+
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitThis": true,
+        "noUnusedLocals": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true
+    }
+}

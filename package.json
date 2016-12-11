@@ -8,7 +8,9 @@
     "url": "git@github.com:Shlomibo/ts-project.git"
   },
   "scripts": {
-    "test": ""
+    "test": "",
+    "build": "node node_modules/typescript/lib/tsc.js -p .",
+    "develop": "node node_modules/typescript/lib/tsc.js -w -p ."
   },
   "author": "Shlomi Borovitz",
   "license": "ISC",

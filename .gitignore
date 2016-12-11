@@ -4,5 +4,8 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
+.tscache
+
 node_modules
 bower_components
+/npm-debug.log
