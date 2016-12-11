@@ -9,8 +9,8 @@
   },
   "scripts": {
     "test": "",
-    "build": "node node_modules/typescript/lib/tsc.js -p .",
-    "develop": "node node_modules/typescript/lib/tsc.js -w -p ."
+    "build": "tsc -p .",
+    "develop": "tsc -w -p ."
   },
   "author": "Shlomi Borovitz",
   "license": "ISC",
