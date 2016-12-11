@@ -1,0 +1,18 @@
+{
+  "name": "ts-project",
+  "version": "1.0.0",
+  "description": "A template project for TS projects",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Shlomibo/ts-project.git"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "author": "Shlomi Borovitz",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.1.4"
+  }
+}
