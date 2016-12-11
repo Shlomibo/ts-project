@@ -11,7 +11,7 @@
     "test": "",
     "build": "tsc -p .",
     "develop": "tsc -w -p .",
-    "lint": "tslint ."
+    "lint": "tslint -t msbuild ."
   },
   "author": "Shlomi Borovitz",
   "license": "ISC",
